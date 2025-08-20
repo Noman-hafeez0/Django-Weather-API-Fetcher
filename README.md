@@ -37,7 +37,7 @@ python -m venv venv
 source venv/bin/activate   # Linux / Mac    
 venv\Scripts\activate      # Windows     
 
-# Set Up Virtual Enviroment
+# Virtual Enviroment (Custom)
 use requiremets txt file provided within
 
 pip install -r requirements.txt
