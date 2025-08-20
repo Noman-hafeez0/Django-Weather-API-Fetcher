@@ -57,8 +57,7 @@ To remove a city, just click the ❌ Delete button.
 
 weather_app/    
 │-- weather/           # Django app (models, views, urls)    
-│-- templates/         # HTML templates    
-│-- static/            # CSS/JS (if any)    
+│-- templates/         # HTML templates      
 │-- manage.py    
 │-- requirements.txt    
 │-- README.md    
