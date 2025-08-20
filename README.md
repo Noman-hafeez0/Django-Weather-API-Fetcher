@@ -33,9 +33,9 @@ Database: SQLite (default, can switch to PostgreSQL/MySQL)
 
 ## Must Setp up your Virtual Enviroment
 
-python -m venv venv
-source venv/bin/activate   # Linux / Mac
-venv\Scripts\activate      # Windows
+python -m venv venv    
+source venv/bin/activate   # Linux / Mac    
+venv\Scripts\activate      # Windows     
 
 # Set Up Virtual Enviroment
 use requiremets txt file provided within
