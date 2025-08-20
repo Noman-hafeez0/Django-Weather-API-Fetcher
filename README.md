@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-5.0-green?logo=django&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)
 ![Status](https://img.shields.io/badge/Status-Active-success.svg)
 
