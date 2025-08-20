@@ -31,7 +31,7 @@ API: OpenWeatherMap
 Database: SQLite (default, can switch to PostgreSQL/MySQL)
 
 
-Must Setp up your Virtual Enviroment
+## Must Setp up your Virtual Enviroment
 
 python -m venv venv
 source venv/bin/activate   # Linux / Mac
